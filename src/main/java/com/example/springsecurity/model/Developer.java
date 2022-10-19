@@ -10,5 +10,5 @@ import lombok.NoArgsConstructor;
 public class Developer {
     private Long id;
     private String firstName;
-    private String lastNAme;
+    private String lastName;
 }
